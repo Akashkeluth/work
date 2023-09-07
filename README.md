@@ -1,2 +1,3 @@
 # work
-work repo
+work repo fro git command demonstraction
+
